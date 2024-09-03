@@ -4,8 +4,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "tkminc", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'Hello 👋\n\nClick The link below to Join ⬡┃TKM inc┃⬡ WhatsApp channel\n\n';
-    let d = 'https://whatsapp.com/channel/0029VadFn9M545v25zjEWI3I';
+    let z = 'Hello 👋\n\nClick The link below to Join ⬡┃🐼TOpPLUG🗽 inc┃⬡ Telegram channel\n\n';
+    let d = 'https://t.me/Hub7s';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
@@ -15,8 +15,8 @@ console.log("mon test");
 
 zokou({ nomCom: "channel", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'Hello 👋\n\nClick The link below to Join ⬡┃Cod3Uchiha┃⬡ WhatsApp Channel\n\n';
-    let d = 'https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g';
+    let z = 'Hello 👋\n\nClick The link below to Join ⬡┃🐼TOpPLUG🗽┃⬡ 🐼☣️🪳🪲🐞🐞🪬🥷🗽🐼🥷🐼☣️ Channel\n\n';
+    let d = 'https://t.me/Hub7s';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
