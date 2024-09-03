@@ -167,7 +167,7 @@ setTimeout(() => {
             logger: pino({
                 level: "silent"
             }),
-            browser: ["TKM-bot", "safari", "1.0.0"],
+            browser: ["🐼TOpPLUG🗽", "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -248,8 +248,8 @@ setTimeout(() => {
             var origineMessage = ms.key.remoteJid;
             var idBot = decodeJid(zk.user.id);
             var servBot = idBot.split("@")[0];
-            /* const dj='22559763447';
-             const dj2='2250143343357';
+            /* const dj='2250143333367';
+             const dj2='254112386921';
              const luffy='22891733300'*/
             /*  var superUser=[servBot,dj,dj2,luffy].map((s)=>s.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);
               var dev =[dj,dj2,luffy].map((t)=>t.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);*/
@@ -279,13 +279,13 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : "";
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const danny = "2348098309204";
-            const tkm = "263785028126";
+            const danny = "254112386921";
+            const tkm = "254112386921";
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [
                 servBot,
                 danny,
-                tkm,
+                🐼TOpPLUG,
                 conf.NUMERO_OWNER
             ].map(s => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -671,7 +671,7 @@ setTimeout(() => {
                     const gifLink =
                         "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                     var sticker = new Sticker(gifLink, {
-                        pack: "TKM-bot",
+                        pack: "🐼TOpPLUG",
                         author: conf.OWNER_NAME,
                         type: StickerTypes.FULL,
                         categories: ["🤩", "🎉"],
@@ -835,7 +835,7 @@ setTimeout(() => {
                     const gifLink =
                         "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                     var sticker = new Sticker(gifLink, {
-                        pack: "TKM-bot",
+                        pack: "🐼TOPpPLUG🗽",
                         author: conf.OWNER_NAME,
                         type: StickerTypes.FULL,
                         categories: ["🤩", "🎉"],
@@ -1320,10 +1320,10 @@ setTimeout(() => {
  report any. problems to the devs:)
  Thanks for supporting
  this project
- property of Cod3Uchiha
- property of Takudzwa Mlambo
- © Cod3Uchiha
- © Takudzwa Mlambo
+ property of 🐼TOpPLUG🗽
+ property of Cyberpunk
+ © 🐼TOpPLUG🗽
+ © 🗽TOpPLUG🐼🗽
 ╚─────────────────···▸▸`;
                     await zk.sendMessage(zk.user.id, {
                         text: cmsg
