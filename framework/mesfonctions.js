@@ -10,7 +10,7 @@ const fs = require('fs-extra');
 const util = require('util');
 let { listall } = require('./stylish-font');
 
-/*_________by Djalega++
+/*_________by 🗽🐼 Cyberpunk 🐼 TOpPLUG++
 
 fonction zJson:
 récupère un objet json
@@ -33,8 +33,8 @@ module.exports.genererNomFichier = async (extension) => {
 /** ************ */
 module.exports.stick = async (buffer, author) => {
     var sticker = new Sticker(buffer, {
-        pack: 'TKM-bot',
-        author: author,
+        pack: '🐼TOpPLUG🗽',
+        author: 🐼🥷 CYBERPUNK 🪲🪳🐞🕷️📱,
         type: StickerTypes.FULL,
         categories: ['🤩', '🎉'],
         id: '12345',
@@ -353,14 +353,14 @@ async function ai(text) {
 
         if (response.status === 200) {
             return {
-            creator: "Danny",
+            creator: "🐼🗽TOpPLUG🗽🪳🪲🥷🕷️📱",
             status: 200,
             reply: response.data.reply
             }
         } else {
             console.error('Error:', response.statusText);
             return {
-              creator: "Danny",
+              creator: "🐼🗽TOpPLUG🗽🪳🥷🕷️📱",
               status: response.status,
               reply: 'server error'
             }
