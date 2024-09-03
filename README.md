@@ -2,7 +2,7 @@
 🐼TOpPLUG V¹
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +🪳bugs🐼TOpPLUG🐞🪲🕷️;MULT🪳I+DEVICE🪰+WHATSAPP🐞+BUG+🪲BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=blue&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +🪳bugs🐼TOpPLUG🐞🪲🕷️;MULT🪳I+DEVICE🪳+🪲🐼WHATSAPP🐞+BUG+🪲BOT" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
