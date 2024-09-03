@@ -1,7 +1,7 @@
 const _0x5892d7 = _0x33e1;
 function _0x14e8() {
     const _0x41a09b = [
-        'e\x20Cod3Uchi',
+        'e\x20🥷🏴‍☠️☣️🕷️🗽🐼',
         'brctI',
         'ezone',
         'DD/MM/YYYY',
@@ -71,10 +71,10 @@ function _0x14e8() {
         'M\x20bot│▫️───',
         '\x0a▫️│▹\x20Prefi',
         'sing\x0a▫️|\x0a▫️|',
-        'd3Uchiha/T',
+        '☣️🕷️🗽🐼/T',
         'sKnjA',
         'ZzUhf',
-        '\x0a▫️│▹TKM\x20bo',
+        '\x0a▫️│▹🐼TOpPLUG\x20bo',
         'hiha\x0a┬╰───',
         'User\x20:\x20',
         'menu2',
@@ -92,7 +92,7 @@ function _0x14e8() {
         'PREFIXE',
         '22TNgUcD',
         'nomCom',
-        'Beltah\x20Tec',
+        '🐼🗽🕷️☣️🏴‍☠️🥷📱\x20Tec',
         'ork//zokou',
         'werCase',
         'KM-bot\x0a╰──',
