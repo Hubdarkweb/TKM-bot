@@ -1,4 +1,4 @@
- // Credits to Neeraj-X0
+ // Credits to 🐼🗽🥷 Cyberpunk 🐼 TOpPLUG
 const unicode = require("./unicode");
 var style = unicode;
 style.tools.creepify.options.maxHeight = 10;
