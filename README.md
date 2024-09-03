@@ -1,28 +1,28 @@
 <p align="center">
-TKM bot v²
+🐼TOpPLUG V¹
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +TKM-bot;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +TKM-bot;MULT🪳I+DEVICE🪰+WHATSAPP🐞+BUG+🪲BOT" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
-  <a href="https://github.com/Cod3Uchiha">
-    <img alt="TKM bot logo" height="200" src="https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg">
+  <a href="https://github.com/Hubdarkweb">
+    <img alt="🐼TOpPLUG🗽🪲🐞🪳🥷☣️ logo" height="200" src="https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cod3Uchiha?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Cod3Uchiha?label=Followers&style=social"></a>
-  <a href="https://github.com/Cod3Uchiha/TKM-bot/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Cod3Uchiha/TKM-bot?&style=social"></a>
-  <a href="https://github.com/Cod3Uchiha/TKM-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Cod3Uchiha/TKM-bot?style=social"></a>
-  <a href="https://github.com/Cod3Uchiha/TKM-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Cod3Uchiha/TKM-bot?label=Watching&style=social"></a>
+  <a href="https://github.com/Hubdarkweb?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Hubdarkweb?label=Followers&style=social"></a>
+  <a href="https://github.com/Hubdarkweb/TOpPLUGG/stargazers/"><img title="Pearls🐼" src="https://img.shields.io/github/stars/Hubdarkweb/TOpPLUGG?&style=social"></a>
+  <a href="https://github.com/Hubdarkweb/TOpPLUGG/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hubdarkweb/TOpPLUGG?style=social"></a>
+  <a href="https://github.com/Hubdarkweb/TOpPLUG/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hubdarkweb/TOpPLUG?label=Watching&style=social"></a>
 </p>
 
- **TKM-bot Deployment Methods**
+ **🐼TOpPLUG🗽 Deployment Methods**
 
 •FORK THIS REPO
  <br>
- <a href='https://github.com/Cod3Uchiha/TKM-bot/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+ <a href='https://github.com/Hubdarkweb/TOpPLUGG/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
  GET SESSION ID HERE
  <br>
@@ -36,7 +36,7 @@ TKM bot v²
 
 •Now deploy.
     <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Cod3Uchiha/TKM-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/Hubdarkweb/TOpPLUG' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 **DEPLOY ON RENDER**
 
@@ -65,7 +65,7 @@ postgresql://tkm:Aqi6tqwyv5IwDHncTtVi5XtMGZvfndDJ@dpg-cqahogtds78s739sl81g-a.ore
 
 •Deploy.
     <br>
-    <a href='https://replit.com/github/Cod3Uchiha/TKM-bot' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github/Hubdarkweb/TOpPLUGG' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 **•Koyeb and Render Deploy now available**
 
@@ -86,13 +86,13 @@ _Termux Setup not recommended_
 
 **contributors**
 
+CYBERPUNK🐼
 ```
-Lazak28•fixed Heroku ban
+🗽TOpPLUG🐼
 ```
-```
-Beltahmd•fixed sleeping problem
+🐼🗽 BUGS 🪳🐞🪲🕷️🪬
 ```
 
-* [🧑‍💻 Follow The Cod3Uchiha whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g)
+* [🧑‍💻 Follow The TOpPLUG telegram Channel🧑‍💻](https://t.me/Hub7s)
 
 
